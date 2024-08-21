@@ -1,3 +1,5 @@
+create database in your local db server  database naem must be authentication_db
+
 run composer install
 
 run php artisan key:generate
